@@ -1,0 +1,2 @@
+    # This is a comment
+    add %r1, %r1, $-1           # This is another comment
